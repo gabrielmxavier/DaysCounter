@@ -7,7 +7,7 @@ Try Days Counter clicking [here](https://gabrielmxavier.github.io/DaysCounter/).
 
 ## Why this Tool
 
-This Tool was created for people who works Vessels to count their worked days, that's why in the interval of 1 day between 2 dates was set to 2 days counted and not just 1.
+This Tool was created for people who works on Vessels to count their worked days, that's why in the interval of 1 day between 2 dates was set to 2 days counted and not just 1.
 
 ## Project overview
 
