@@ -17,7 +17,7 @@ This Tool was created for people who works Vessels to count their worked days, t
 
 ## How this project was built !
 
-- This project was originally developed using the Materialize CSS classes and icons.
+This project was originally developed using the Materialize CSS classes and icons.
 
 Would you like to know more about Materialize CSS or use on your own project ? 
 
