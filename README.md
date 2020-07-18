@@ -3,7 +3,7 @@ A JavaScript Counter days tool developed to help people count their worked days 
 
 ## Try the application here
 
-Try Days Counter clicking [here](https://gabrielmxavier.github.io/DaysCounter/).
+Try Days Counter application clicking [here](https://gabrielmxavier.github.io/DaysCounter/).
 
 ## Why this Tool
 
