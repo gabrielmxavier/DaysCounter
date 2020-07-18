@@ -12,13 +12,10 @@ This Tool was created for people who works on Vessels to count their worked days
 ## Project overview
 
 ![Project Overiew 1](https://github.com/gabrielmxavier/DaysCounter/blob/master/img/Screen-shot-1.jpg)
-
 ![Project Overiew 2](https://github.com/gabrielmxavier/DaysCounter/blob/master/img/Screen-shot-2.jpg)
 
 ## How this project was built !
 
 This project was originally developed using the Materialize CSS classes and icons.
-
 Would you like to know more about Materialize CSS or use on your own project ? 
-
 Check the Materialize documentation clicking here => [MaterializeCss](https://materializecss.com/)
