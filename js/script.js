@@ -129,8 +129,8 @@ function deleteRowTable(id) {
 function updateDays() {
     
     const allDays = allDatesDisplayed.map(bodyDate => bodyDate.totalDays);
-    const addingAllDays = allDays.reduce((accumulator, item) => (accumulator += item));
-    // const addingAllDays = allDays.reduce((accumulator, item) => (accumulator += item), 0);
+    // const addingAllDays = allDays.reduce((accumulator, item) => (accumulator += item));
+    const addingAllDays = allDays.reduce((accumulator, item) => (accumulator += item), 0);
     displayTotal.innerHTML = `${addingAllDays} Days`;
   
 }
